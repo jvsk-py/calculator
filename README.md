@@ -13,3 +13,5 @@ basically I'm tryna create some good GUI for the calc so it looks nice and bette
 otherwise making a simple python script for the calc is dead easy anyways I could whip that up in 2 mins (not saying that that's tuff, just saying why I'm adding GUI)
 
 anyways enjoy the prject ig idk what to say
+
+**Finished 22:36 03/07/26**
